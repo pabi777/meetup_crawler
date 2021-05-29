@@ -1,0 +1,5 @@
+commands.md
+__pycache__/
+*.sql
+envmeetup/
+Readme.md
