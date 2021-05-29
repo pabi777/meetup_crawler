@@ -24,3 +24,11 @@ export DATABASE=<DATABASE>
 export USER=<USER>
   
 export PASSWORD=<PASSWORD>
+
+### How to run
+  
+Go to project Root folder.  
+create virtualenv : python3 -m venv env
+  activate it: source env/bin/acticate
+  install requirements: pip3 install -r requirements.txt
+  Run it and relax : python3 mainpage.py
